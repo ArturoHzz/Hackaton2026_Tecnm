@@ -1,0 +1,1 @@
+/*Vista móvil pública al escanear el QR*/

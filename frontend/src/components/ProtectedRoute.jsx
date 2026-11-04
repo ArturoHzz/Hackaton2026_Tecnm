@@ -1,0 +1,1 @@
+/*Control de acceso privado para el administrado*/

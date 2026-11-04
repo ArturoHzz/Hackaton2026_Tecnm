@@ -1,0 +1,1 @@
+#Consulta publica mediante codigo QR
